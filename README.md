@@ -7,7 +7,7 @@ Status :In Production
 ----------------------
 
 **Knowns Issues**
-Currently does not work for IE, Chrome nor Safari
+Currently only works with FireFox. IE, Chrome and Safari drivers are not loading
 
 **Enhancement**
 Error handling
